@@ -1,3 +1,1 @@
-https://github.com/EpistasisLab/tpot
-
-https://github.com/youngerForCode/weipinhui
+# 消费金融场景下的用户购买预测
