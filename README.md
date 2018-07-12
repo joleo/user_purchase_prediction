@@ -1,1 +1,3 @@
-# user_purchase_prediction
+https://github.com/EpistasisLab/tpot
+
+https://github.com/youngerForCode/weipinhui
